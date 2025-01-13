@@ -1,5 +1,9 @@
-# :monkey_face: Liam's Data Portfolio
-Hello there! Here is where I demonstrate my learned skills through a variety of data projects.
+# :monkey_face: Liam's Portfolio
+
+## :copyright:
+| Project | Skills Demonstrated | Description | 
+|---|---|---|
+| :capital_abcd: [Spell Checker Efficiency](https://github.com/robprob/cs50x-2025/tree/main/week5/speller) | Performance Bottleneck Analysis, Algorithmic Optimizations, Large-Scale Datasets | I developed a highly efficient spell-checker program as part of a Harvard CS50 challenge, focusing on optimizing dictionary loading, hashing, spell-checking, and unloading processes. By designing a lightweight hash function and minimizing overhead, my implementation outperformed the original Harvard version in a majority of test cases, achieving up to **200% comparable efficiency**.|
 
 ## :snake: Python
 | Project | Skills Demonstrated | Libraries | Description | 
