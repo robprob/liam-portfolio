@@ -1,4 +1,4 @@
-# :monkey_face: Liam's Portfolio
+# :monkey: Liam's Portfolio
 
 ## :copyright:
 | Project | Skills Demonstrated | Description | 
