@@ -3,6 +3,8 @@
 ## :copyright:
 | Project | Skills Demonstrated | Description | 
 |---|---|---|
+| :chart_with_upwards_trend: [ML in C](https://github.com/robprob/ml-in-c/tree/main) | Algorithm Implementation, Memory Management, Gradient Descent, Regularization | Collection of ML algorithms, built using MLper, allowing me to explore mathematical principles of machine learning while learning low-level optimization techniques in C. The project currently includes **Linear Regression** with support for L1, L2, and Elastic Net regularization. Future plans include implementing logistic regression, k-means clustering, and more.
+| :hammer_and_wrench: [MLper](https://github.com/robprob/ml-in-c/tree/main/mlper) | Software Design, File I/O, Memory Management, Data Preprocessing | Lightweight and reusable C library providing essential ML helper functions. Supports dynamic memory management, data preprocessing (standardization and train-test split), performance evaluation, and CSV I/O, simplifying implementation of ML algorithms in C.
 | :capital_abcd: [Spell Checker Efficiency](https://github.com/robprob/cs50x-2025/tree/main/week5/speller) | Performance Bottleneck Analysis, Algorithmic Optimizations, Large-Scale Datasets | I developed a highly efficient spell-checker program as part of a Harvard CS50 challenge, focusing on optimizing dictionary loading, hashing, spell-checking, and unloading processes. By designing a lightweight hash function and minimizing overhead, my implementation outperformed the Harvard Staff's version in a majority of test cases, achieving up to **200% comparable efficiency**.|
 
 ## :snake: Python
